@@ -8,8 +8,9 @@
 
 Escribe aquí el nombre completo de cada estudiante. Con esta sección se identifica la entrega.
 
-- 
-- 
+- Juan José Román Hincapié
+- Kevin Estivenson Hernández Henao
+- Juan David García Jiménez
 
 **No hay necesidad de usar IA. Solo hay que seguir los pasos de este laboratorio.**
 
